@@ -1,0 +1,23 @@
+{
+  "name": "face-recognition-api",
+  "version": "1.0.0",
+  "description": "face-recognition Backend API",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HaimHamiel/face-recognition-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HaimHamiel/face-recognition-api/issues"
+  },
+  "homepage": "https://github.com/HaimHamiel/face-recognition-api#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "nodemon": "^2.0.15"
+  }
+}
